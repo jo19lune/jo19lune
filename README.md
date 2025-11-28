@@ -59,5 +59,3 @@ Je suis un développeur passionné par la création d’applications **web, mobi
 - GitHub : [[github.com/jo19lune](https://github.com/jo19lune)]  
 
 ---
-
-✨ *"Le code n’est pas seulement une suite d’instructions, c’est une expérience que l’on façonne pour les utilisateurs."*
