@@ -24,7 +24,7 @@ Je suis un développeur passionné par la création d’applications **web, mobi
 
 ---
 
-## 🛠️ Langages maîtrisés
+## 🛠️ Langages
 
 - C#  
 - C / C++  
