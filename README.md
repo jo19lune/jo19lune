@@ -2,9 +2,9 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Joachim%20Loick&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38" alt="Bannière animée Joachim Loick" width="100%" />
 
-  <img src="./public/images/mon-logo.webp" alt="Logo de Joachim Loick" width="120" />
+  <img src="./public/images/mon-logo.svg" alt="Logo SVG de Joachim Loick" width="280" />
 
-  # 👋 Bonjour, moi c’est Joachim Loick
+  # Bonjour, moi c’est Joachim Loick
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+backend;Architecte+d%27APIs;Passionn%C3%A9+par+le+cloud+et+le+DevOps;Applications+web+%26+mobiles" alt="Texte animé de présentation" />
 
@@ -23,16 +23,19 @@
   <a href="https://x.com/joloick">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://discord.com/users/joloick">
+    <img src="https://img.shields.io/badge/Discord-joloick-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord : joloick" />
+  </a>
 
 </div>
 
 ---
 
-## ✨ Animations & activité
+## Activité GitHub
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Concevoir+des+APIs+fiables+%E2%9A%A1;Automatiser+les+livraisons+%F0%9F%9A%80;Construire+des+syst%C3%A8mes+scalables+%F0%9F%8C%90;Apprendre%2C+am%C3%A9liorer%2C+partager+%F0%9F%8C%B1" alt="Objectifs techniques en animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Concevoir+des+APIs+fiables;Automatiser+les+livraisons;Construire+des+syst%C3%A8mes+scalables;Apprendre%2C+am%C3%A9liorer%2C+partager" alt="Objectifs techniques en animation" />
 
   <br />
 
@@ -41,7 +44,7 @@
 
   <br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jo19lune&theme=github_dark" alt="Graphique de l'activité GitHub de Joachim Loick" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jo19lune&theme=github_dark" alt="Grille et graphique de l'activité GitHub de Joachim Loick" width="95%" />
 
   <br />
   <br />
@@ -49,7 +52,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake.svg" alt="Animation du calendrier des contributions GitHub" width="95%" />
+    <img src="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake.svg" alt="Grille animée des contributions GitHub" width="95%" />
   </picture>
 
 </div>
@@ -58,16 +61,46 @@
   <img src="https://komarev.com/ghpvc/?username=jo19lune&label=Visites%20du%20profil&color=2563EB&style=flat-square" alt="Nombre de visites du profil GitHub" />
 </p>
 
-## 🚀 À propos de moi
+## À propos de moi
 
-- 👨‍💻 Développeur orienté backend, APIs et systèmes distribués
-- 🧩 Expérience avec les architectures MVC, MVVM, microservices et les design patterns
-- 🔐 Intérêt pour les APIs sécurisées, l’authentification JWT et la documentation Swagger
-- 📱 Développement d’applications cross-platform avec Flutter et React Native
-- 🤝 Collaboration avec Git, GitHub, Trello et la méthode Agile
-- 🌱 J’enrichis continuellement ma stack avec les outils cloud, DevOps et JavaScript modernes
+- <img src="https://cdn.simpleicons.org/codeigniter/2563EB" width="16" height="16" alt="Code" /> Développeur orienté backend, APIs et systèmes distribués
+- <img src="https://cdn.simpleicons.org/diagramsdotnet/2563EB" width="16" height="16" alt="Architecture" /> Expérience avec les architectures MVC, MVVM, microservices et les design patterns
+- <img src="https://cdn.simpleicons.org/letsencrypt/2563EB" width="16" height="16" alt="Sécurité" /> Intérêt pour les APIs sécurisées, l’authentification JWT et la documentation Swagger
+- <img src="https://cdn.simpleicons.org/flutter/2563EB" width="16" height="16" alt="Applications mobiles" /> Développement d’applications cross-platform avec Flutter et React Native
+- <img src="https://cdn.simpleicons.org/git/2563EB" width="16" height="16" alt="Collaboration" /> Collaboration avec Git, GitHub, Trello et la méthode Agile
+- <img src="https://cdn.simpleicons.org/opensourceinitiative/2563EB" width="16" height="16" alt="Apprentissage" /> J’enrichis continuellement ma stack avec les outils cloud, DevOps et JavaScript modernes
 
-## 🧰 Stack technique
+## Stack principale
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Backend et APIs</strong><br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+    <td width="33%" valign="top">
+      <strong>Frontend et mobile</strong><br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+    </td>
+    <td width="33%" valign="top">
+      <strong>Temps réel et plateforme</strong><br /><br />
+      <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+      <img src="https://img.shields.io/badge/Webhook-2563EB?style=flat-square&logo=webhooks&logoColor=white" alt="Webhook" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+  </tr>
+</table>
+
+## Détail de la stack technique
 
 ### Backend & APIs
 
@@ -133,7 +166,7 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
 > Les outils et technologies sont présentés selon mon expérience actuelle et les
 > domaines que je continue à approfondir.
 
-## 🔌 Intégrations & communication temps réel
+## Intégrations & communication temps réel
 
 | Technologie | Utilisation |
 | --- | --- |
@@ -143,15 +176,51 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
 | **Redis** | Cache, files d’attente et échanges rapides entre services |
 | **MinIO / Cloudinary** | Stockage et gestion de fichiers et médias |
 
-## 📂 Projets réalisés
+## Projets réalisés
 
-- **APIs REST sécurisées** : authentification JWT, gestion des rôles et documentation Swagger
-- **Systèmes temps réel** : chats et notifications live avec WebSocket et WebHooks
-- **Systèmes de gestion** : back-offices complets connectés à des bases relationnelles
-- **Applications Flutter** : interfaces cross-platform mobiles et desktop connectées à des APIs backend
-- **Services automatisés** : scripts, tâches planifiées, traitement de données et migrations Alembic
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>InterviewPrep</h3>
+      <p>Application de préparation aux entretiens techniques avec génération et accompagnement assistés par l’intelligence artificielle.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      </p>
+      <ul>
+        <li>Interface cross-platform développée avec Flutter.</li>
+        <li>API backend performante construite avec FastAPI.</li>
+        <li>Intégration OpenAI pour personnaliser les exercices et les réponses.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ImmoSocial</h3>
+      <p>Plateforme immobilière sociale orientée échanges en temps réel, événements métier et expérience web moderne.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+        <img src="https://img.shields.io/badge/Webhook-2563EB?style=flat-square&logo=webhooks&logoColor=white" alt="Webhook" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+      <ul>
+        <li>Backend Spring Boot pour les services et la logique métier.</li>
+        <li>WebSocket pour les interactions et notifications en temps réel.</li>
+        <li>Webhooks pour les événements entre services.</li>
+        <li>Frontend React et Vite pour une interface rapide et réactive.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## 🎯 Objectifs
+### Autres réalisations
+
+- APIs REST sécurisées avec authentification JWT, gestion des rôles et documentation Swagger.
+- Systèmes de gestion connectés à des bases relationnelles.
+- Services automatisés, tâches planifiées, traitement de données et migrations Alembic.
+
+## Objectifs
 
 - Concevoir des APIs scalables, sécurisées et bien documentées
 - Approfondir les architectures microservices et les environnements cloud
@@ -159,7 +228,7 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
 - Développer des applications web modernes avec Next.js et des APIs NestJS
 - Contribuer à des projets open source backend
 
-## 📫 Me contacter
+## Me contacter
 
 <div align="center">
 
@@ -168,6 +237,12 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
   </a>
   <a href="https://github.com/jo19lune">
     <img src="https://img.shields.io/badge/jo19lune-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/joloick">
+    <img src="https://img.shields.io/badge/Discord-joloick-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord : joloick" />
+  </a>
+  <a href="https://x.com/joloick">
+    <img src="https://img.shields.io/badge/Twitter%2FX-joloick-111111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter ou X : joloick" />
   </a>
 
   <br />
