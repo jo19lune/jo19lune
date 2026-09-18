@@ -36,12 +36,12 @@
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jo19lune&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github&include_all_commits=true" alt="Statistiques GitHub de Joachim Loick" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jo19lune&theme=github_dark" alt="Statistiques GitHub de Joachim Loick" height="180" />
   <img src="https://streak-stats.demolab.com?user=jo19lune&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=F97316&currStreakLabel=E2E8F0" alt="Série de contributions GitHub de Joachim Loick" height="180" />
 
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jo19lune&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="Graphique de l'activité GitHub de Joachim Loick" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jo19lune&theme=github_dark" alt="Graphique de l'activité GitHub de Joachim Loick" width="95%" />
 
   <br />
   <br />
