@@ -37,7 +37,7 @@
 
 ---
 
-## Animations & activité
+## Activité GitHub
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
   <br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jo19lune&theme=github_dark" alt="Graphique de l'activité GitHub de Joachim Loick" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jo19lune&theme=github_dark" alt="Grille et graphique de l'activité GitHub de Joachim Loick" width="95%" />
 
   <br />
   <br />
@@ -58,7 +58,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake.svg" alt="Animation du calendrier des contributions GitHub" width="95%" />
+    <img src="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake.svg" alt="Grille animée des contributions GitHub" width="95%" />
   </picture>
 
 </div>
@@ -76,7 +76,37 @@
 - <img src="https://cdn.simpleicons.org/git/2563EB" width="16" height="16" alt="Collaboration" /> Collaboration avec Git, GitHub, Trello et la méthode Agile
 - <img src="https://cdn.simpleicons.org/opensourceinitiative/2563EB" width="16" height="16" alt="Apprentissage" /> J’enrichis continuellement ma stack avec les outils cloud, DevOps et JavaScript modernes
 
-## Stack technique
+## Stack principale
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Backend et APIs</strong><br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+    <td width="33%" valign="top">
+      <strong>Frontend et mobile</strong><br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+    </td>
+    <td width="33%" valign="top">
+      <strong>Temps réel et plateforme</strong><br /><br />
+      <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+      <img src="https://img.shields.io/badge/Webhook-2563EB?style=flat-square&logo=webhooks&logoColor=white" alt="Webhook" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+  </tr>
+</table>
+
+## Détail de la stack technique
 
 ### Backend & APIs
 
@@ -154,11 +184,47 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
 
 ## Projets réalisés
 
-- **APIs REST sécurisées** : authentification JWT, gestion des rôles et documentation Swagger
-- **Systèmes temps réel** : chats et notifications live avec WebSocket et WebHooks
-- **Systèmes de gestion** : back-offices complets connectés à des bases relationnelles
-- **Applications Flutter** : interfaces cross-platform mobiles et desktop connectées à des APIs backend
-- **Services automatisés** : scripts, tâches planifiées, traitement de données et migrations Alembic
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>InterviewPrep</h3>
+      <p>Application de préparation aux entretiens techniques avec génération et accompagnement assistés par l’intelligence artificielle.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      </p>
+      <ul>
+        <li>Interface cross-platform développée avec Flutter.</li>
+        <li>API backend performante construite avec FastAPI.</li>
+        <li>Intégration OpenAI pour personnaliser les exercices et les réponses.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ImmoSocial</h3>
+      <p>Plateforme immobilière sociale orientée échanges en temps réel, événements métier et expérience web moderne.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+        <img src="https://img.shields.io/badge/Webhook-2563EB?style=flat-square&logo=webhooks&logoColor=white" alt="Webhook" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+      <ul>
+        <li>Backend Spring Boot pour les services et la logique métier.</li>
+        <li>WebSocket pour les interactions et notifications en temps réel.</li>
+        <li>Webhooks pour les événements entre services.</li>
+        <li>Frontend React et Vite pour une interface rapide et réactive.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### Autres réalisations
+
+- APIs REST sécurisées avec authentification JWT, gestion des rôles et documentation Swagger.
+- Systèmes de gestion connectés à des bases relationnelles.
+- Services automatisés, tâches planifiées, traitement de données et migrations Alembic.
 
 ## Objectifs
 
