@@ -32,16 +32,16 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Concevoir+des+APIs+fiables+%E2%9A%A1;Automatiser+les+livraisons+%F0%9F%9A%80;Construire+des+syst%C3%A8mes+scalables+%F0%9F%8C%90;Apprendre%2C+am%C3%A9liorer%2C+partager+%F0%9F%8C%B1" alt="Séquence animée des objectifs techniques" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Concevoir+des+APIs+fiables+%E2%9A%A1;Automatiser+les+livraisons+%F0%9F%9A%80;Construire+des+syst%C3%A8mes+scalables+%F0%9F%8C%90;Apprendre%2C+am%C3%A9liorer%2C+partager+%F0%9F%8C%B1" alt="Objectifs techniques en animation" />
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jo19lune&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github&include_all_commits=true" alt="Statistiques GitHub" height="180" />
-  <img src="https://streak-stats.demolab.com?user=jo19lune&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=F97316&currStreakLabel=E2E8F0" alt="Série de contributions GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jo19lune&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github&include_all_commits=true" alt="Statistiques GitHub de Joachim Loick" height="180" />
+  <img src="https://streak-stats.demolab.com?user=jo19lune&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=F97316&currStreakLabel=E2E8F0" alt="Série de contributions GitHub de Joachim Loick" height="180" />
 
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jo19lune&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="Graphique animé de l'activité GitHub" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jo19lune&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="Graphique de l'activité GitHub de Joachim Loick" width="95%" />
 
   <br />
   <br />
@@ -49,13 +49,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake.svg" alt="Animation du calendrier de contributions GitHub" width="95%" />
+    <img src="https://raw.githubusercontent.com/jo19lune/jo19lune/output/github-contribution-grid-snake.svg" alt="Animation du calendrier des contributions GitHub" width="95%" />
   </picture>
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jo19lune&label=Visites%20du%20profil&color=2563EB&style=flat-square" alt="Compteur de visites du profil" />
+  <img src="https://komarev.com/ghpvc/?username=jo19lune&label=Visites%20du%20profil&color=2563EB&style=flat-square" alt="Nombre de visites du profil GitHub" />
 </p>
 
 ## 🚀 À propos de moi
