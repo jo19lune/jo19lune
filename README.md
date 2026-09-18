@@ -181,8 +181,12 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>InterviewPrep</h3>
+      <a href="https://github.com/jo19lune/interviewPrep">
+        <img src="https://raw.githubusercontent.com/jo19lune/interviewPrep/main/interviewprep/assets/icon/logo.png" alt="Logo InterviewPrep" width="72" />
+        <h3>InterviewPrep</h3>
+      </a>
       <p>Application de préparation aux entretiens techniques avec génération et accompagnement assistés par l’intelligence artificielle.</p>
+      <p><a href="https://github.com/jo19lune/interviewPrep">Voir le dépôt GitHub</a></p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -195,8 +199,12 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>ImmoSocial</h3>
+      <a href="https://github.com/jo19lune/immosocial">
+        <img src="https://raw.githubusercontent.com/jo19lune/immosocial/main/frontend/src/assets/logo.png" alt="Logo ImmoSocial" width="72" />
+        <h3>ImmoSocial</h3>
+      </a>
       <p>Plateforme immobilière sociale orientée échanges en temps réel, événements métier et expérience web moderne.</p>
+      <p><a href="https://github.com/jo19lune/immosocial">Voir le dépôt GitHub</a></p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
         <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
