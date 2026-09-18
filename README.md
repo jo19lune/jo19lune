@@ -4,7 +4,7 @@
 
   <img src="./public/images/mon-logo.webp" alt="Logo de Joachim Loick" width="120" />
 
-  # 👋 Bonjour, moi c’est Joachim Loick
+  # Bonjour, moi c’est Joachim Loick
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+backend;Architecte+d%27APIs;Passionn%C3%A9+par+le+cloud+et+le+DevOps;Applications+web+%26+mobiles" alt="Texte animé de présentation" />
 
@@ -28,11 +28,11 @@
 
 ---
 
-## ✨ Animations & activité
+## Animations & activité
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Concevoir+des+APIs+fiables+%E2%9A%A1;Automatiser+les+livraisons+%F0%9F%9A%80;Construire+des+syst%C3%A8mes+scalables+%F0%9F%8C%90;Apprendre%2C+am%C3%A9liorer%2C+partager+%F0%9F%8C%B1" alt="Objectifs techniques en animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Concevoir+des+APIs+fiables;Automatiser+les+livraisons;Construire+des+syst%C3%A8mes+scalables;Apprendre%2C+am%C3%A9liorer%2C+partager" alt="Objectifs techniques en animation" />
 
   <br />
 
@@ -58,16 +58,16 @@
   <img src="https://komarev.com/ghpvc/?username=jo19lune&label=Visites%20du%20profil&color=2563EB&style=flat-square" alt="Nombre de visites du profil GitHub" />
 </p>
 
-## 🚀 À propos de moi
+## À propos de moi
 
-- 👨‍💻 Développeur orienté backend, APIs et systèmes distribués
-- 🧩 Expérience avec les architectures MVC, MVVM, microservices et les design patterns
-- 🔐 Intérêt pour les APIs sécurisées, l’authentification JWT et la documentation Swagger
-- 📱 Développement d’applications cross-platform avec Flutter et React Native
-- 🤝 Collaboration avec Git, GitHub, Trello et la méthode Agile
-- 🌱 J’enrichis continuellement ma stack avec les outils cloud, DevOps et JavaScript modernes
+- <img src="https://cdn.simpleicons.org/codeigniter/2563EB" width="16" height="16" alt="Code" /> Développeur orienté backend, APIs et systèmes distribués
+- <img src="https://cdn.simpleicons.org/diagramsdotnet/2563EB" width="16" height="16" alt="Architecture" /> Expérience avec les architectures MVC, MVVM, microservices et les design patterns
+- <img src="https://cdn.simpleicons.org/letsencrypt/2563EB" width="16" height="16" alt="Sécurité" /> Intérêt pour les APIs sécurisées, l’authentification JWT et la documentation Swagger
+- <img src="https://cdn.simpleicons.org/flutter/2563EB" width="16" height="16" alt="Applications mobiles" /> Développement d’applications cross-platform avec Flutter et React Native
+- <img src="https://cdn.simpleicons.org/git/2563EB" width="16" height="16" alt="Collaboration" /> Collaboration avec Git, GitHub, Trello et la méthode Agile
+- <img src="https://cdn.simpleicons.org/opensourceinitiative/2563EB" width="16" height="16" alt="Apprentissage" /> J’enrichis continuellement ma stack avec les outils cloud, DevOps et JavaScript modernes
 
-## 🧰 Stack technique
+## Stack technique
 
 ### Backend & APIs
 
@@ -133,7 +133,7 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
 > Les outils et technologies sont présentés selon mon expérience actuelle et les
 > domaines que je continue à approfondir.
 
-## 🔌 Intégrations & communication temps réel
+## Intégrations & communication temps réel
 
 | Technologie | Utilisation |
 | --- | --- |
@@ -143,7 +143,7 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
 | **Redis** | Cache, files d’attente et échanges rapides entre services |
 | **MinIO / Cloudinary** | Stockage et gestion de fichiers et médias |
 
-## 📂 Projets réalisés
+## Projets réalisés
 
 - **APIs REST sécurisées** : authentification JWT, gestion des rôles et documentation Swagger
 - **Systèmes temps réel** : chats et notifications live avec WebSocket et WebHooks
@@ -151,7 +151,7 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
 - **Applications Flutter** : interfaces cross-platform mobiles et desktop connectées à des APIs backend
 - **Services automatisés** : scripts, tâches planifiées, traitement de données et migrations Alembic
 
-## 🎯 Objectifs
+## Objectifs
 
 - Concevoir des APIs scalables, sécurisées et bien documentées
 - Approfondir les architectures microservices et les environnements cloud
@@ -159,7 +159,7 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
 - Développer des applications web modernes avec Next.js et des APIs NestJS
 - Contribuer à des projets open source backend
 
-## 📫 Me contacter
+## Me contacter
 
 <div align="center">
 
