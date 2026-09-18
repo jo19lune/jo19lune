@@ -6,6 +6,12 @@
 
   # Bonjour, moi c’est Joachim Loick
 
+  <details>
+    <summary>Voir mon avatar</summary>
+    <br />
+    <img src="./public/images/avatar.webp" alt="Avatar de Joachim Loick" width="220" />
+  </details>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+backend;Architecte+d%27APIs;Passionn%C3%A9+par+le+cloud+et+le+DevOps;Applications+web+%26+mobiles" alt="Texte animé de présentation" />
 
   <p>
