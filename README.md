@@ -1,81 +1,165 @@
-# 👨‍💻 Développeur Backend
-Bienvenue sur mon profil !  
-Je suis un développeur passionné par la conception d'**architectures backend robustes**, de services scalables et d'APIs performantes. Mon objectif est de construire des systèmes fiables, sécurisés et bien documentés.
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Joachim%20Loick&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Bannière animée Joachim Loick" width="100%" />
+
+  <img src="./public/images/mon-logo.webp" alt="Logo de Joachim Loick" width="120" />
+
+  # 👋 Bonjour, moi c’est Joachim Loick
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+backend;Architecte+d%27APIs;Passionn%C3%A9+par+le+cloud+et+le+DevOps;Applications+web+%26+mobiles" alt="Texte animé de présentation" />
+
+  <p>
+    Je conçois des architectures backend robustes, des APIs performantes et des
+    applications fiables, avec une attention particulière portée à la qualité,
+    à la sécurité et à la documentation.
+  </p>
+
+  <a href="mailto:joachimloick939@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/jo19lune">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/joloick">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+
+</div>
 
 ---
 
-## 🚀 Compétences principales
+## ✨ Animations & activité
 
-### ⚙️ Backend & APIs
-- **Langages** : Python, Java, PHP, C#, JavaScript (Node.js), Dart
-- **Frameworks** : Django, FastAPI, Spring Boot, Laravel, Express.js, ASP.NET, CodeIgniter
-- **APIs & Communication** : REST API, WebSocket, WebHooks
-- **Architecture** : MVC, MVVM, Microservices, Design Patterns
+<div align="center">
 
-### 🗄️ Bases de données & ORM
-- **Relationnelles** : MySQL, PostgreSQL, SQLite
-- **ORM** : Hibernate (Spring Boot), SQLAlchemy, Alembic (migrations Python), Eloquent
+  <img src="https://github-readme-stats.vercel.app/api?username=jo19lune&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github&include_all_commits=true" alt="Statistiques GitHub" height="180" />
+  <img src="https://streak-stats.demolab.com?user=jo19lune&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=F97316&currStreakLabel=E2E8F0" alt="Série de contributions GitHub" height="180" />
 
-### 📱 Mobile & Desktop (compétences complémentaires)
-- **Flutter / Dart** : applications cross-platform mobiles et desktop
-- **React Native / Expo** : apps mobiles cross-platform
-- **C# WPF/WinForms**, **Python PyQt/Tkinter**, **Java Swing**
+  <br />
 
-### 🎨 Frontend & Design
-- **Frameworks** : React + Vite, Angular
-- **Langages** : HTML, CSS, JavaScript
-- **Design** : Figma (maquettes UI/UX)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jo19lune&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="Graphique animé de l'activité GitHub" width="95%" />
 
-### 🔧 DevOps & Outils
-- Git / GitHub
-- Docker (conteneurisation)
-- Linux / Bash
-- Postman (tests d'API)
+</div>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jo19lune&label=Visites%20du%20profil&color=2563EB&style=flat-square" alt="Compteur de visites du profil" />
+</p>
 
-## 🛠️ Langages déjà utilisés
+## 🚀 À propos de moi
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+- 👨‍💻 Développeur orienté backend, APIs et systèmes distribués
+- 🧩 Expérience avec les architectures MVC, MVVM, microservices et les design patterns
+- 🔐 Intérêt pour les APIs sécurisées, l’authentification JWT et la documentation Swagger
+- 📱 Développement d’applications cross-platform avec Flutter et React Native
+- 🤝 Collaboration avec Git, GitHub, Trello et la méthode Agile
+- 🌱 J’enrichis continuellement ma stack avec les outils cloud, DevOps et JavaScript modernes
 
----
+## 🧰 Stack technique
 
-## 🔌 Intégrations & Communication temps réel
+### Backend & APIs
 
-| Technologie | Usage |
-|---|---|
-| **REST API** | Conception et consommation d'APIs HTTP standardisées |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### Bases de données & ORM
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+![Tortoise ORM](https://img.shields.io/badge/Tortoise_ORM-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### Frontend, mobile & desktop
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+HTML, CSS, JavaScript, Figma, C# WPF/WinForms, PyQt/Tkinter et Java Swing.
+
+### DevOps, cloud & stockage
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111827)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
+
+### Organisation & méthodes
+
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+- Méthode Agile
+- Gestion de tâches et planification avec Trello
+- Collaboration et versionnement avec Git / GitHub
+- Automatisation CI/CD avec GitHub Actions et Jenkins
+
+> Les outils et technologies sont présentés selon mon expérience actuelle et les
+> domaines que je continue à approfondir.
+
+## 🔌 Intégrations & communication temps réel
+
+| Technologie | Utilisation |
+| --- | --- |
+| **REST API** | Conception et consommation d’APIs HTTP standardisées |
 | **WebSocket** | Communication bidirectionnelle en temps réel |
 | **WebHooks** | Notifications événementielles entre services |
-
----
+| **Redis** | Cache, files d’attente et échanges rapides entre services |
+| **MinIO / Cloudinary** | Stockage et gestion de fichiers et médias |
 
 ## 📂 Projets réalisés
 
-- **APIs REST sécurisées** : authentification JWT, gestion des rôles, documentation Swagger
-- **Systèmes temps réel** : chats, notifications live via WebSocket et WebHooks
-- **Systèmes de gestion** : back-offices complets avec bases de données relationnelles
-- **Applications Flutter** : interfaces cross-platform mobiles/desktop connectées à des APIs backend
-- **Services automatisés** : scripts, tâches planifiées, traitement de données, migrations Alembic
-
----
+- **APIs REST sécurisées** : authentification JWT, gestion des rôles et documentation Swagger
+- **Systèmes temps réel** : chats et notifications live avec WebSocket et WebHooks
+- **Systèmes de gestion** : back-offices complets connectés à des bases relationnelles
+- **Applications Flutter** : interfaces cross-platform mobiles et desktop connectées à des APIs backend
+- **Services automatisés** : scripts, tâches planifiées, traitement de données et migrations Alembic
 
 ## 🎯 Objectifs
 
-- Concevoir des APIs scalables et bien documentées
-- Approfondir les architectures microservices et le cloud (AWS/GCP)
+- Concevoir des APIs scalables, sécurisées et bien documentées
+- Approfondir les architectures microservices et les environnements cloud
+- Renforcer mes pratiques CI/CD, DevOps et observabilité
+- Développer des applications web modernes avec Next.js et des APIs NestJS
 - Contribuer à des projets open source backend
-- Maîtriser les pratiques CI/CD et DevOps
 
----
+## 📫 Me contacter
 
-## 📫 Contact
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joachimloick939@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/joloick)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jo19lune)
+  <a href="mailto:joachimloick939@gmail.com">
+    <img src="https://img.shields.io/badge/joachimloick939%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/jo19lune">
+    <img src="https://img.shields.io/badge/jo19lune-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br />
+  <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer&animation=twinkling" alt="Pied de page animé" width="100%" />
+
+</div>
