@@ -23,6 +23,9 @@
   <a href="https://x.com/joloick">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://discord.com/users/joloick">
+    <img src="https://img.shields.io/badge/Discord-joloick-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord : joloick" />
+  </a>
 
 </div>
 
@@ -168,6 +171,9 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
   </a>
   <a href="https://github.com/jo19lune">
     <img src="https://img.shields.io/badge/jo19lune-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/joloick">
+    <img src="https://img.shields.io/badge/Discord-joloick-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord : joloick" />
   </a>
 
   <br />
