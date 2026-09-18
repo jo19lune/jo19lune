@@ -2,15 +2,9 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Joachim%20Loick&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38" alt="Bannière animée Joachim Loick" width="100%" />
 
-  <img src="./public/images/mon-logo.webp" alt="Logo de Joachim Loick" width="120" />
+  <img src="./public/images/mon-logo.svg" alt="Logo SVG de Joachim Loick" width="280" />
 
   # Bonjour, moi c’est Joachim Loick
-
-  <details>
-    <summary>Voir mon avatar</summary>
-    <br />
-    <img src="./public/images/avatar.webp" alt="Avatar de Joachim Loick" width="220" />
-  </details>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+backend;Architecte+d%27APIs;Passionn%C3%A9+par+le+cloud+et+le+DevOps;Applications+web+%26+mobiles" alt="Texte animé de présentation" />
 
