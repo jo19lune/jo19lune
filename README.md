@@ -241,6 +241,9 @@ Git, GitHub, Linux, Bash, Postman et conteneurisation Docker.
   <a href="https://discord.com/users/joloick">
     <img src="https://img.shields.io/badge/Discord-joloick-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord : joloick" />
   </a>
+  <a href="https://x.com/joloick">
+    <img src="https://img.shields.io/badge/Twitter%2FX-joloick-111111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter ou X : joloick" />
+  </a>
 
   <br />
   <br />
